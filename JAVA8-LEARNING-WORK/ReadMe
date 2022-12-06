@@ -1,0 +1,19 @@
+1. Function extension of
+    1.1 BiFunction
+    1.2 BinaryOperator
+    1.3 UnaryOperator
+
+
+Consumer: - It takes one input and returns nothing
+BiConsumer: - It takes two inputs and returns nothing
+2. Consumer<T> extension of
+    2.1 BiConsumer<Tt, U u>
+
+
+Predicate: - It takes a input and returns a boolean(true or false)
+3. Predicate extension of
+    3.1 BiPredicate
+
+
+4. Supplier
+

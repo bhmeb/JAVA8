@@ -1,0 +1,11 @@
+Terminal Operations:
+    Terminal operations connect the data for you.
+    Terminal operations starts the whole stream pipeline.
+Terminal Operations are:
+   forEach()
+   min()
+   max()
+   reduce()
+   Collect() and etc..
+
+

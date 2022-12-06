@@ -1,0 +1,11 @@
+
+
+https://github.com/dilipsundarraj1/java-8/blob/master/java-8/src/com/learnJava/imperativevsdeclarative/ImperativeVsDeclarativeExample1.java
+
+https://github.com/dilipsundarraj1/java-8/blob/master/java-8/src/com/learnJava/imperativevsdeclarative/ImperativeVsDeclarativeExample1.java
+
+
+https://github.com/dilipsundarraj1/java-8/blob/master/java-8/src/com/learnJava/lambda/RunnableLambdaExample.java
+
+https://github.com/dilipsundarraj1/java-8/tree/master/java-8/src/com/learnJava/functionalInterfaces
+

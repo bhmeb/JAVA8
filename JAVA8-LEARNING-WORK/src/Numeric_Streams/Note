@@ -1,0 +1,23 @@
+Numeric Streams :
+Represent the primitive values in a Stream.
+IntStream
+LongStream
+DoubleStream
+
+Aggregate Functions:
+sum()
+max()
+min()
+average()
+
+Boxing() and Unboxing() :
+Boxing() - Converting a primitive type to Wrapper Class type.
+Example :  Converting an in (primitive) to Integer (Wrapper)
+
+Unboxing() - Converting a Wrapper class to primitive type.
+Example : Converting an Integer (Wrapper) to int(primitive).
+
+
+mapToObject() - Convert a each element numeric Stream to some object.
+mapToLong() - Convert a numeric Stream to a Long Stream
+mapToDouble() - Convert a numeric Stream to a Double Stream

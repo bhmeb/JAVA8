@@ -1,0 +1,9 @@
+Stream Short Circuit Operations :
+All these functions does not have to iterate the whole stream to evaluate the result.
+
+limit()
+findfirst()
+findAny()
+anyMatch()
+allMatch()
+noneMatch()
